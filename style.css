@@ -12,6 +12,10 @@ img {
     cursor: pointer;
 }
 
+.logo {
+    
+}
+
 .flex-div {
     display: flex;
     align-items: center;
